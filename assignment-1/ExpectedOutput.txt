@@ -1,0 +1,23 @@
+Welcome to Bank System
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Display Account Details
+5. Exit
+Enter your choice: 1
+Enter account type (savings/current): savings
+Enter account number: 12345
+Enter name: John Doe
+Account created successfully!
+
+Enter your choice: 2
+Enter account number: 12345
+Enter amount to deposit: 2000
+Deposit successful! New balance: 2000.0
+
+Enter your choice: 3
+Enter amount to withdraw: 1800
+Insufficient balance! Minimum balance of 500 required.
+
+Enter your choice: 5
+Thank you for using the Bank System!
